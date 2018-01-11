@@ -4,6 +4,8 @@ import system.out.println
 public class Dibuja{
 
     public main(){
+        println("hola mundo");
+    }
 
     }
 
